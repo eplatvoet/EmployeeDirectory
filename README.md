@@ -45,11 +45,49 @@ Follow these guidelines for committing:
 * Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
 
 
-## Submission on BCS
 
-You are required to submit the following:
+# Employee Directory: 
+# ![Git Hub license](https://img.shields.io/badge/License-Unlicensed-blue.svg)
 
-* the URL to the deployed application
+## TABLE OF CONTENTS
+- [DESCRIPTION](#DESCRIPTION)  
+- [LICENSE](#LICENSE)  
+- [INSTALLATION](#INSTALLATION)  
+- [TECHNOLOGIES](#TECHNOLOGIES)  
+- [QUESTIONS](#QUESTIONS)  
+- [CONTRIBUTIONS](#CONTRIBUTIONS)
+- [LINKS](#LINKS)  
+- [SCREENSHOTS](#SCREENSHOTS)  
 
-* the URL to the Github repository
+## DESCRIPTION
+Description 
+
+## LICENSE
+NONE
+
+## INSTALLATION
+Run 'npm i' in the command line to install all packages.
+
+## TECHNOLOGIES
+- React.js  
+- JSX  
+- CSS
+  - Bootstrap  
+- JavaScript
+  - 
+
+## QUESTIONS 
+My GitHub username is *eplatvoet* & my profile can be found [here](https://github.com/eplatvoet) 
+
+## CONTRIBUTIONS
+Feel free to fork the repository if any upgrades/features can be implemented. I can be reached at erin.didomenico520@gmail.com if you have any other questions or comments about this repository.
+
+## LINKS
+![]()
+![]()
+
+
+## SCREENSHOTS
+
+
 
