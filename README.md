@@ -83,8 +83,8 @@ My GitHub username is *eplatvoet* & my profile can be found [here](https://githu
 Feel free to fork the repository if any upgrades/features can be implemented. I can be reached at erin.didomenico520@gmail.com if you have any other questions or comments about this repository.
 
 ## LINKS
-![]()
-![]()
+![REPOSITORY]()
+![DEPLOYED]()
 
 
 ## SCREENSHOTS
