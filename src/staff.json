@@ -1,0 +1,171 @@
+[
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/b/be/Character_-_MichaelScott.PNG/revision/latest?cb=20200413224550",
+    "name": "Michael Scott",
+    "email": "michaelscott@dundermifflin.com",
+    "phone": "570-123-4567",
+    "dept":"Manager",
+    "birthday": "3/15/1965"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/c/c5/Dwight_.jpg/revision/latest/scale-to-width-down/350?cb=20170701082424",
+    "name": "Dwight Schrute III",
+    "email": "dwightschrute@dundermifflin.com",
+    "phone": "570-123-5678",
+    "dept":"Sales",
+    "birthday": "1/20/1970"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/e/e9/Character_-_JimHalpert.PNG/revision/latest/scale-to-width-down/249?cb=20200414162003",
+    "name": "Jim Halpert",
+    "email": "jimhalpert@dundermifflin.com",
+    "phone": "570-123-5679",
+    "dept":"Sales",
+    "birthday": "10/1/1978"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/e/e6/Phyllis_Vance.jpg/revision/latest/scale-to-width-down/350?cb=20170701090016",
+    "name": "Phyllis Lapin-Vance",
+    "email": "phyllislapin@dundermifflin.com",
+    "phone": "570-123-5677",
+    "dept":"Sales",
+    "birthday":"7/10/1965"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/2/23/Stanley_Hudson.jpg/revision/latest/scale-to-width-down/350?cb=20170701085445",
+    "name": "Stanley Hudson",
+    "email": "stanleyhudson@dundermifflin.com",
+    "phone": "570-123-5676",
+    "dept":"Sales",
+    "birthday": "8/29/1958" 
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/2/20/C0164512-C4C2-485C-9CB6-85B31F642090.jpeg/revision/latest/scale-to-width-down/350?cb=20200103213101",
+    "name": "Andy Bernard",
+    "email": "andybernard@dundermifflin.com",
+    "phone": "570-123-5675",
+    "dept":"Sales",
+    "birthday": "6/23/1973"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/0/0b/Angela_Martin.jpg/revision/latest?cb=20170701090232",
+    "name": "Angela Martin",
+    "email": "angelamartin@dundermifflin.com",
+    "phone": "570-123-4321",
+    "dept":"Accounting",
+    "birthday": "11/11/1974"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/2/25/Oscar_Martinez.jpg/revision/latest/scale-to-width-down/350?cb=20170701085818",
+    "name": "Oscar Martinez",
+    "email": "oscarmartinez@dundermifflin.com",
+    "phone": "570-123-4322",
+    "dept":"Accounting",
+    "birthday": "8/3/1972"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/b/b2/2009Kevincropped.PNG/revision/latest/scale-to-width-down/350?cb=20170701083657",
+    "name": "Kevin Malone",
+    "email": "kevinmalone@dundermifflin.com",
+    "phone": "570-123-5676",
+    "dept":"Accounting",
+    "birthday": "6/1/1968"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/9/90/2009Meredith.jpg/revision/latest/scale-to-width-down/350?cb=20170701084945",
+    "name": "Meredith Palmer",
+    "email": "meredithpalmer@dundermifflin.com",
+    "phone": "570-123-4320",
+    "dept":"Purchasing/Supplier Relations",
+    "birthday": "11/12/1959"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/6/67/Pam_Beesley.jpg/revision/latest/scale-to-width-down/350?cb=20170701084358",
+    "name": "Pamela Beesley-Halpert",
+    "email": "pambeesly@dundermifflin.com",
+    "phone": "570-123-3210",
+    "dept":"Office Manager",
+    "birthday": "3/25/1979"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/0/0a/ErinHannon.jpg/revision/latest/scale-to-width-down/333?cb=20170805002853",
+    "name": "Erin Hannon",
+    "email": "erinhannon@dundermifflin.com",
+    "phone": "570-123-1234",
+    "dept":"Reception",
+    "birthday": "5/1/1986"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/e/e0/Character_-_RyanHoward.PNG/revision/latest/scale-to-width-down/286?cb=20200414174545",
+    "name": "Ryan Howard",
+    "email": "temp@dundermifflin.com",
+    "phone": "570-123-3333",
+    "dept":"Temp",
+    "birthday": "4/20/1981"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/5/55/2009TobyCropped.PNG/revision/latest/scale-to-width-down/350?cb=20170701082913",
+    "name": "Toby Flendersonn",
+    "email": "tobyflenderson@dundermifflin.com",
+    "phone": "570-123-6420",
+    "dept":"Human Resources",
+    "birthday": "2/22/1963"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/4/49/2009DarrylCroppeed.PNG/revision/latest/scale-to-width-down/350?cb=20170701085636",
+    "name": "Darryl Philbin",
+    "email": "darrylphilbin@dundermifflin.com",
+    "phone": "570-123-8910",
+    "dept":"Warehouse",
+    "birthday": "7/17/1977"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/2/20/2009Creed.jpg/revision/latest/scale-to-width-down/350?cb=20170701085348",
+    "name": "Creed Bratton",
+    "email": "creedbratton@dundermifflin.com",
+    "phone": "570-123-1357",
+    "dept":"Quality Assurance",
+    "birthday": "11/1/1925"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/6/63/Lonnie_Collins.png/revision/latest/scale-to-width-down/350?cb=20150805161616",
+    "name": "Lonnie Collins",
+    "email": "lonniecollins@dundermifflin.com",
+    "phone": "570-123-8910",
+    "dept":"Warehouse",
+    "birthday": "10/10/1975"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/0/0e/Madge.jpg/revision/latest?cb=20060528224950",
+    "name": "Madge Madsen",
+    "email": "madgemadsen@dundermifflin.com",
+    "phone": "570-123-8910",
+    "dept":"Warehouse",
+    "birthday": "3/3/1973"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/2/22/Lester.jpg/revision/latest?cb=20060905002216",
+    "name": "Glenn Lester",
+    "email": "glennlester@dundermifflin.com",
+    "phone": "570-123-8910",
+    "dept":"Warehouse",
+    "birthday": "12/12/1976"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/f/f2/Warehouse_michael.png/revision/latest/scale-to-width-down/350?cb=20200107075151",
+    "name": "Michael Smith",
+    "email": "michaelsmith@dundermifflin.com",
+    "phone": "570-123-8910",
+    "dept":"Warehouse",
+    "birthday": "6/29/1974"
+  },
+  {
+    "image": "https://vignette.wikia.nocookie.net/theoffice/images/4/45/Matt.jpg/revision/latest?cb=20100220002424",
+    "name": "Matt Matthews",
+    "email": "mattmatthews@dundermifflin.com",
+    "phone": "570-123-8910",
+    "dept":"Warehouse",
+    "birthday": "5/13/1978"
+  }
+]
+
